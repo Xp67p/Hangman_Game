@@ -1,4 +1,4 @@
- Hangman Game in C
+Hangman Game in C
 
 This simple text-based implementation of the classic Hangman game is written in C. The player attempts to guess a hidden word by suggesting letters within a limited number of incorrect guesses. The game randomly selects a word from a predefined list, and players can track their progress as they make guesses.
 
