@@ -12,4 +12,3 @@ Allows players to make letter guesses and tracks incorrect attempts.
 
 Offers a simple text-based interface.
 
-Option to play multiple rounds.
