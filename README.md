@@ -6,9 +6,11 @@ Features:
 
 Randomly selects a word from a predefined list.
 
+
 Displays the current state of the word with guessed letters.
 
 Allows players to make letter guesses and tracks incorrect attempts.
+
 
 Offers a simple text-based interface.
 
